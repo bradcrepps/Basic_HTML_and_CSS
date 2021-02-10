@@ -28,6 +28,7 @@ h1 {
     border: 1px solid black;
     border-radius: 25%;
     cursor: pointer;
+    transition: transform .5% ease-in-out;
 }
 /* SELECT ALL SQUARES ALL SQUARES PARAGRAPHS IN THE ARRAY*/
 
